@@ -1,0 +1,9 @@
+2.4.1
+
+(2) Major - API Publica
+(1) Minor - Adicionando funcionalidades, mas compativel com a API
+(4) Patch - Bugs, ajustes
+
+Iniciando
+
+Major = 0 - API Instavel. Pode mudar a qualquer momento.
